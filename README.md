@@ -1,1 +1,1 @@
-# React/Redux/Router Starter Project
+# Shakeria Smith React Portfolio Application
