@@ -8,7 +8,7 @@
     a {
       margin-left: 15px;
       cursor: pointer;
-      color: $charcoal;
+      color: grey;
       transition: 0.5s ease-in-out;
 
       &:hover {
@@ -30,6 +30,7 @@
     text-transform: uppercase;
     font-size: 0.9rem;
 
+
     a {
         color: $grey;
         text-decoration: none;
@@ -44,6 +45,7 @@
     .nav-link-active {
         border-bottom: 1px solid grey;
         color: grey;
+        color: $dark-purple;
        
      }
 }
